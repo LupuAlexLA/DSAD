@@ -1,0 +1,9 @@
+,Timp folosire,Frecventa,Grad multumire,Asteptari,Varsta,Studii,Ocupatie,Sex
+Timp folosire,True,True,False,False,False,False,False,False
+Frecventa,True,True,False,True,False,False,False,False
+Grad multumire,False,False,True,True,False,False,False,False
+Asteptari,False,True,True,True,False,False,False,False
+Varsta,False,False,False,False,True,True,True,False
+Studii,False,False,False,False,True,True,True,False
+Ocupatie,False,False,False,False,True,True,True,False
+Sex,False,False,False,False,False,False,False,True

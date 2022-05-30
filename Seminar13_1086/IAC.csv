@@ -1,0 +1,151 @@
+Id,Timp folosire,Frecventa,Grad multumire,Asteptari,Varsta,Studii,Ocupatie,Sex
+1,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+2,Peste 3 ani,zilnic,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICENTA,Student,Barbat
+3,Il folosesc prima data,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+4,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICENTA,Student,Femeie
+5,Peste 3 ani,M.m. ori saptamana,NICI NICI,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+6,Il folosesc prima data,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+7,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Conform asteptarilor,20-39 ani,MASTERAT,Student,Femeie
+8,Intre 6 luni si un an,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+9,Mai putin de 6 luni,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Barbat
+10,Il folosesc prima data,Mai rar de 1 data pe luna,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+11,Intre 1 an si 3 ani,M.m. ori saptamana,NICI NICI,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+12,Mai putin de 6 luni,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+13,Il folosesc prima data,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,MASTERAT,Altele,Barbat
+14,Intre 1 an si 3 ani,o data pe saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+15,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+16,Peste 3 ani,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+17,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+18,Peste 3 ani,zilnic,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICEAL,Student,Barbat
+19,Peste 3 ani,M.m. ori saptamana,MULTUMIT,Peste asteptari,40-59 ani,LICEAL,Specialist IT,Barbat
+20,Intre 1 an si 3 ani,zilnic,NICI NICI,Sub asteptari,20-39 ani,LICEAL,Student,Femeie
+21,Intre 1 an si 3 ani,Mai rar de 1 data pe luna,MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+22,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,40-59 ani,DOCTORAT,Altele,Barbat
+23,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,40-59 ani,MASTERAT,Cadru didactic,Barbat
+24,Peste 3 ani,M.m. ori luna,NEMULTUMIT,Mult peste asteptari,20-39 ani,LICEAL,Student,Barbat
+25,Il folosesc prima data,Mai rar de 1 data pe luna,MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+26,Intre 6 luni si un an,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+27,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+28,Intre 1 an si 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+29,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+30,Intre 6 luni si un an,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+31,Il folosesc prima data,Mai rar de 1 data pe luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+32,Intre 1 an si 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Sub asteptari,20-39 ani,LICENTA,Student,Femeie
+33,Mai putin de 6 luni,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Intreprinzator,Barbat
+34,Intre 1 an si 3 ani,M.m. ori luna,NICI NICI,Conform asteptarilor,20-39 ani,LICENTA,Student,Barbat
+35,Peste 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,MASTERAT,Altele,Femeie
+36,Intre 6 luni si un an,o data pe saptamana,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+37,Intre 1 an si 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+38,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+39,Peste 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+40,Intre 1 an si 3 ani,Mai rar de 1 data pe luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+41,Intre 1 an si 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+42,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+43,Mai putin de 6 luni,M.m. ori luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+44,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+45,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Specialist IT,Barbat
+46,Intre 1 an si 3 ani,M.m. ori luna,NICI NICI,Sub asteptari,20-39 ani,LICEAL,Student,Femeie
+47,Peste 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+48,Intre 6 luni si un an,Mai rar de 1 data pe luna,NICI NICI,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+49,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+50,Intre 1 an si 3 ani,o data pe saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+51,Intre 6 luni si un an,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+52,Intre 6 luni si un an,M.m. ori luna,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICENTA,Altele,Barbat
+53,Intre 1 an si 3 ani,zilnic,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Altele,Barbat
+54,Mai putin de 6 luni,o data pe saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+55,Peste 3 ani,M.m. ori luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Barbat
+56,Peste 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+57,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+58,Il folosesc prima data,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+59,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+60,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,MASTERAT,Student,Femeie
+61,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Barbat
+62,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+63,Intre 1 an si 3 ani,M.m. ori saptamana,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+64,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+65,Peste 3 ani,M.m. ori luna,NICI NICI,Peste asteptari,20-39 ani,LICENTA,Altele,Barbat
+66,Intre 1 an si 3 ani,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Altele,Barbat
+67,Il folosesc prima data,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+68,Intre 6 luni si un an,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+69,Peste 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+70,Mai putin de 6 luni,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+71,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,Sub 19 ani,LICEAL,Student,Barbat
+72,Il folosesc prima data,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+73,Intre 1 an si 3 ani,M.m. ori saptamana,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Altele,Barbat
+74,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+75,Intre 6 luni si un an,M.m. ori saptamana,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICENTA,Student,Femeie
+76,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Barbat
+77,Peste 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Intreprinzator,Barbat
+78,Intre 1 an si 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+79,Intre 6 luni si un an,Mai rar de 1 data pe luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Barbat
+80,Intre 6 luni si un an,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+81,Intre 6 luni si un an,Mai rar de 1 data pe luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,DOCTORAT,Cadru didactic,Femeie
+82,Peste 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Intreprinzator,Barbat
+83,Intre 1 an si 3 ani,M.m. ori saptamana,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Altele,Femeie
+84,Il folosesc prima data,Mai rar de 1 data pe luna,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICENTA,Functionar public,Barbat
+85,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICEAL,Student,Barbat
+86,Peste 3 ani,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,MASTERAT,Student,Femeie
+87,Intre 6 luni si un an,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+88,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Altele,Femeie
+89,Intre 6 luni si un an,o data pe saptamana,MULTUMIT,Conform asteptarilor,40-59 ani,DOCTORAT,Intreprinzator,Barbat
+90,Mai putin de 6 luni,zilnic,F.MULTUMIT,Mult peste asteptari,40-59 ani,MASTERAT,Intreprinzator,Femeie
+91,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Intreprinzator,Barbat
+92,Intre 6 luni si un an,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Intreprinzator,Femeie
+93,Peste 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,MASTERAT,Cadru didactic,Femeie
+94,Mai putin de 6 luni,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+95,Mai putin de 6 luni,o data pe saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+96,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+97,Intre 1 an si 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,40-59 ani,MASTERAT,Specialist IT,Barbat
+98,Mai putin de 6 luni,zilnic,F.MULTUMIT,Sub asteptari,20-39 ani,LICENTA,Student,Barbat
+99,Peste 3 ani,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Intreprinzator,Barbat
+100,Intre 1 an si 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+101,Peste 3 ani,M.m. ori luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Barbat
+102,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+103,Intre 1 an si 3 ani,M.m. ori luna,F.MULTUMIT,Peste asteptari,20-39 ani,MASTERAT,Altele,Femeie
+104,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Mult peste asteptari,40-59 ani,MASTERAT,Intreprinzator,Femeie
+105,Intre 1 an si 3 ani,M.m. ori luna,NEMULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+106,Intre 6 luni si un an,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+107,Intre 6 luni si un an,M.m. ori luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+108,Peste 3 ani,M.m. ori luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+109,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,40-59 ani,LICENTA,Altele,Femeie
+110,Mai putin de 6 luni,M.m. ori luna,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICENTA,Student,Barbat
+111,Intre 1 an si 3 ani,o data pe saptamana,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+112,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+113,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Mult peste asteptari,20-39 ani,LICEAL,Student,Barbat
+114,Peste 3 ani,Mai rar de 1 data pe luna,MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Femeie
+115,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,40-59 ani,MASTERAT,Student,Femeie
+116,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,MASTERAT,Student,Barbat
+117,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Femeie
+118,Peste 3 ani,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+119,Peste 3 ani,Mai rar de 1 data pe luna,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+120,Intre 6 luni si un an,M.m. ori saptamana,F.MULTUMIT,Sub asteptari,40-59 ani,LICENTA,Altele,Femeie
+121,Intre 1 an si 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+122,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,Sub 19 ani,LICENTA,Student,Barbat
+123,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,MASTERAT,Student,Barbat
+124,Mai putin de 6 luni,Mai rar de 1 data pe luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+125,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Peste asteptari,Sub 19 ani,LICEAL,Student,Femeie
+126,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Sub asteptari,20-39 ani,LICENTA,Student,Barbat
+127,Peste 3 ani,M.m. ori saptamana,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+128,Mai putin de 6 luni,Mai rar de 1 data pe luna,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+129,Intre 1 an si 3 ani,M.m. ori saptamana,F.MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Specialist IT,Barbat
+130,Il folosesc prima data,M.m. ori luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICENTA,Student,Femeie
+131,Intre 6 luni si un an,o data pe saptamana,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+132,Mai putin de 6 luni,M.m. ori saptamana,MULTUMIT,Mult peste asteptari,20-39 ani,MASTERAT,Altele,Femeie
+133,Peste 3 ani,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Femeie
+134,Intre 6 luni si un an,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Altele,Barbat
+135,Intre 6 luni si un an,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+136,Intre 1 an si 3 ani,M.m. ori luna,MULTUMIT,Conform asteptarilor,40-59 ani,MASTERAT,Altele,Barbat
+137,Mai putin de 6 luni,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,LICENTA,Student,Barbat
+138,Mai putin de 6 luni,o data pe saptamana,F.MULTUMIT,Peste asteptari,40-59 ani,LICENTA,Functionar public,Femeie
+139,Intre 6 luni si un an,M.m. ori luna,MULTUMIT,Peste asteptari,20-39 ani,LICEAL,Student,Barbat
+140,Mai putin de 6 luni,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,40-59 ani,LICENTA,Functionar public,Femeie
+141,Il folosesc prima data,Mai rar de 1 data pe luna,F.MULTUMIT,Sub asteptari,20-39 ani,LICENTA,Student,Barbat
+142,Mai putin de 6 luni,zilnic,F.MULTUMIT,Mult peste asteptari,20-39 ani,LICENTA,Student,Femeie
+143,Intre 6 luni si un an,M.m. ori saptamana,F.MULTUMIT,Mult peste asteptari,20-39 ani,MASTERAT,Student,Femeie
+144,Intre 6 luni si un an,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,40-59 ani,LICENTA,Altele,Barbat
+145,Il folosesc prima data,o data pe saptamana,F.MULTUMIT,Mult peste asteptari,40-59 ani,LICEAL,Altele,Femeie
+146,Il folosesc prima data,o data pe saptamana,F.MULTUMIT,Sub asteptari,20-39 ani,GIMNAZIAL,Student,Barbat
+147,Intre 1 an si 3 ani,Mai rar de 1 data pe luna,MULTUMIT,Conform asteptarilor,20-39 ani,LICEAL,Student,Barbat
+148,Mai putin de 6 luni,M.m. ori saptamana,F.MULTUMIT,Peste asteptari,40-59 ani,LICENTA,Altele,Barbat
+149,Il folosesc prima data,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,MASTERAT,Student,Femeie
+150,Intre 1 an si 3 ani,Mai rar de 1 data pe luna,F.MULTUMIT,Peste asteptari,20-39 ani,GIMNAZIAL,Student,Femeie
