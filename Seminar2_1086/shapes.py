@@ -1,7 +1,8 @@
 from math import dist
 
-
+# derivata direct din object
 class shape():
+    # constructor: ref la instanta curenta, lista coord x si y, o denumire
     def __init__(self, x, y, denumire=None):
         if len(x) != len(y):
             raise Exception("Coordonate invalide!")
@@ -9,15 +10,19 @@ class shape():
             self.denumire = denumire
         else:
             self.denumire = "Shape A"
+        # cream x si y ca atribute private
         self.__x = x
         self.__y = y
 
+    # metoda invocata in fctia print pt vizualizarea continutului unui obiect
     def __str__(self):
         sir = self.denumire + ":"
         for i in range(len(self.__x)):
             sir += ("(" + str(self.__x[i]) + "," + str(self.__y[i]) + ")")
         return sir
-
+    
+    # transformam atributul in proprietate
+    # get
     @property
     def x(self):
         return self.__x
@@ -38,7 +43,7 @@ class shape():
             raise Exception("Numar incorect de coordonate!")
         self.__y = y
 
-    #     Calcul perimetru
+    # Calcul perimetru
     def perimetru(self):
         p = 0
         n = len(self.__x)
@@ -49,19 +54,23 @@ class shape():
             )
         return p
 
+    # other - ref la un obiect din aceeasi clasa
     def __eq__(self, other):
+        # ob other este tot de clasa shape
         assert isinstance(other, shape)
         return self.perimetru() == other.perimetru()
 
-
+# dervez clasa rectangle din shape
 class rectangle(shape):
     def __init__(self, x0, y0, w, h, denumire=None):
         self.x0 = x0
         self.y0 = y0
         self.w = w
         self.h = h
+        # calculam intr-o lista coord locale
         x_ = [x0, x0 + w, x0 + w, x0]
         y_ = [y0, y0, y0 + h, y0 + h]
+        # invocam constructorului super-clasei
         super().__init__(x_, y_, denumire)
 
     def __str__(self):
